@@ -29,6 +29,7 @@ public class Allmethods {
 	
 	public Connection getConnection()
 	{
+		String a="hellow";
 		String url = "jdbc:mysql://localhost:3001/hbnet_demo?useSSL=false";    
 	    String driverName = "com.mysql.jdbc.Driver";   
 	    String username = "root";   
