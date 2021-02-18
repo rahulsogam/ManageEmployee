@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+
+.background
+{
+	background-color: black;
+	
+}
+
+select.form-control:not([size]):not([multiple]) {
+    height: calc(2.25rem + 8px); 
+}

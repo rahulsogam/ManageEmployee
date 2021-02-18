@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/rahul sogam/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" sourcepath="C:/Users/rahul sogam/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="javax.servlet"/>
+			<attribute name="maven.artifactId" value="javax.servlet-api"/>
+			<attribute name="maven.version" value="3.1.0"/>
+			<attribute name="maven.scope" value="provided"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Required JARS/javax.servlet.jsp-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Required JARS/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Required JARS/jsp-api-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Required JARS/jstl-api-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Required JARS/mysql-connector-java-5.1.38.jar"/>
+	<classpathentry kind="lib" path="E:/Required JARS/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/Required JARS/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Required JARS/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
